@@ -1,6 +1,6 @@
 <a border="0" href="http://incanter.org" ><img src="http://incanter.org/incanter-banner.png" alt="Incanter" /></a>
 
-[![Build Status](https://travis-ci.org/morrifeldman/incanter.png?branch=master)](https://travis-ci.org/morrifeldman/incanter)
+!https://travis-ci.org/morrifeldman/incanter.png?branch=master!:https://travis-ci.org/morrifeldman/incanter
 
 * <a href="#overview">Overview</a>
 * <a href="#clojure">Getting started with Clojure</a>
